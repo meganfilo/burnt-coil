@@ -1,0 +1,43 @@
+heading: Meet The Band
+# body_text: Burnt Coil is a Neo-Soul/R&B band out of Milwaukee, WI comprised of members who are all from various backgrounds, ages, and playing experiences.
+members:
+  - name: CJ Hall
+    subtitle: TRUMPET, RHYTHM GUITAR, KEYS, VOCALS
+    bio: CJ got his start in music playing Trumpet with the No Nonsense Brass Band in high school. After studying Music Production & Engineering at Berklee College of Music, he went on to pick up a few other instruments and fell even more in love with performing. He is also currently studying to be a guitar technician. He got an angled bell on his trumpet so he didn't need to fix his bad posture.
+    photo_url: /images/member-photos/connor.webp
+  - name: Nick Theisen
+    subtitle: LEAD VOCALS, BARI SAX, PERCUSSION
+    bio: He's got a jawline that could cut steel
+    photo_url: /images/member-photos/nick.webp
+  - name: Keaton Galezio
+    subtitle: TROMBONE, VOCALS
+    bio: Keaton Galezio is a trombonist from Slinger, WI and brings with him a vast experience in music. Holding degrees in music education and performance from UW-Stevens Point, Keaton has performed with many different groups throughout Central and Southeast Wisconsin in almost every genre of music. He wields the power of Zeus in his right elbow but he's too humble to admit it.
+    photo_url: /images/member-photos/keaton.webp
+  - name: Ben Nelson
+    subtitle: ALTO & TENOR SAX
+    bio: Ben Nelson is a versatile saxophonist with a background in classical, jazz, rock, pop, punk, and R&B. He has played with several groups over the last 10 years including Mumford's, Various Small Fires, The Wall of Sound, and Whole Yachta Love. Outside of Burnt Coil, he plays in a David Bowie cover band known as Spiders From Milwaukee and an acoustic duo--Fear & Smoking in Milwaukee--with his wife, Brooklynn. Legend says one note from his mighty rune will leave you sockless.
+    photo_url: /images/member-photos/ben.webp
+  - name: Jake Clemetson
+    subtitle: TENOR & BARI SAX
+    bio: Only drinks Miller for legal reasons
+    photo_url: /images/member-photos/jake.webp
+  - name: Duf
+    subtitle: BASS, PERCUSSION
+    bio: Jakob Dufner is a multi-instrumentalist from the Milwaukee area, playing drums, piano and guitar. He is also the bassist for a Milwaukee area-punk group called Man Alive. He is inspired by players like Flea, Dirk Lance, Victor Wooten, Charles Berthoud, and Joe Dart. He's in the band to pay back his debt to the overlords.
+    photo_url: /images/member-photos/duf.webp
+  - name: Megan Filo
+    subtitle: DRUMS, PERCUSSION
+    bio: Megan Filo is a percussionist based in Southeastern Wisconsin. She holds a Bachelor’s of Music from UW Oshkosh where she studied percussion performance and music business. After graduating college, Megan moved to Nashville, Tennessee to work for Sony Music and began touring and recording for artists of all genres, including rock, pop, jazz, and Motown. She recently moved back to Wisconsin in 2021 and began to play with various Milwaukee-based groups. Her sense of humor is drier than the Sahara.
+    photo_url: /images/member-photos/megan.webp
+  - name: Jake Schubert
+    subtitle: DRUMS, PERCUSSION, VIBRAPHONE
+    bio: Jake Schubert is a percussionist from Milwaukee, where he completed his degree in classical percussion performance from UW Milwaukee. He has toured throughout Wisconsin playing jazz fusion and musical theatre shows before moving to Kansas City to further his studies at UMKC where he is currently working towards a Master's degree in jazz performance. In Kansas City, Jake has played with former Jazz Messenger Bobby Watson and the renowned saxophonist Jaleel Shaw, as well as forming his own groups which feature tunes from the American songbook and original compositions by both himself and his bandmates. This man can put soul into a stick click
+    photo_url: /images/member-photos/jake_schubert.webp
+  - name: Amael Camacho
+    subtitle: LEAD GUITAR
+    bio: Amael, from a small island at the south-east of Puerto Rico called Vieques, fell in love with music while in high school. Most of what he has learned has been self-taught, and all learned by ear;  making him able to fluently play with different bands of many different genres including blues, rock, calypso, reggae and funk. For years, he has also been on a noble quest in search of “The Pick Of Destiny” but has had no luck so far.
+    photo_url: /images/member-photos/amael.webp
+  - name: Zachariah Dietenberger
+    subtitle: SOUSAPHONE
+    bio: Zachariah Dietenberger is a Tubist from Hartford, Wisconsin. He has a bachelor's degree from the University of Wisconsin - Stevens Point and a Master's degree from the University of Wisconsin - Madison; both in tuba performance. After college, Zach began teaching lessons alongside performing with various groups in southern Wisconsin, and pursuing seats in national orchestras. As a result of his education and playing with many different ensembles, Zach has gained a deep knowledge of many different styles, including classical, jazz, polka, rock, soul and many more. He has an embouchure that could rupture the San Andreas Fault
+    photo_url: /images/member-photos/zach.webp
